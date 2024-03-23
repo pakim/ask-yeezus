@@ -17,7 +17,6 @@ body {
   justify-content: center;
   align-items: center;
   background-image: linear-gradient(var(--rotate), gold, royalblue, gold);
-  background-attachment: fixed;
   animation: rotate 6s linear infinite;
 }
 
@@ -25,7 +24,6 @@ body {
   background-image: url("assets/kanye.jpg");
   background-size: cover;
   background-position: top;
-  background-attachment: fixed;
   width: 99%;
   height: 99%;
   border-radius: 5px;
